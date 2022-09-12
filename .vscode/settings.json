@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "cmake.configureOnOpen": false,
-    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
